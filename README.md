@@ -2,7 +2,7 @@
 🚀 HR Analytics Dashboard | Key Workforce Insights 📊
 
 Just finished building an HR Dashboard that gives a quick yet powerful overview of workforce metrics and performance. Here are some key insights from the analysis 👇
-
+![image alt](https://github.com/ettamvivek-alt/HR-Dashboard/blob/1a826bf1d37383a0c2a7c907d8d970b5bbc4368a/Screenshot%202026-02-10%20181958.png)
 
 
 
